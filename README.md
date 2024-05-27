@@ -1,4 +1,41 @@
-# Counter
+<h1 align="center"> Contador </h1>
+
+<p align="center">
+    Um simples contador em Angular<br/>
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+![image](https://github.com/marcostwelve/counter/assets/94411600/d04bc669-4222-4d49-b25f-69a52b003b7c)
+
+<br/>
+
+
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Angular
+- Typescript
+
+## 💻 Projeto
+
+Contador, é um simples APP para aumentar e diminuir números
+
+- [visite o projeto online](https://counter-mu-bice.vercel.app/)
+
+
+## 🖋 Licença
+
+- Este projeto, está sob licença MIT
+
+
+# Configuração Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
 
